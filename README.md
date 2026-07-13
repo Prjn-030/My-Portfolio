@@ -2,7 +2,7 @@
 ## Portfolio: Senior Technical Writer
  
 * **Name:** [Prashant Ranjan]
-* **Location:** Noida, India (Open to Hybrid/Remote)
+* **Location:** Noida (U.P), India (Open to Hybrid/Remote)
 * **Experience:** 7+ Years (Specializing in Product Documentation, Developer Platforms, Admin Guides, and API Documentation)
 * **Contact"** [+91- 8088038884]
 * **LinkedIn:** [Insert Link] |
@@ -73,7 +73,7 @@ The updated error code matrix saved customer engineering teams an estimated **40
 * **Freelancer** | [Self-Emplyoyed] | *December,2015 – April,2022*
 * **Assistant Manager** | [DPSC Pvt. Ltd.] | *December,2013 – February,2015*
 * **Software Engineer/Contract Assignee** | [CMC Ltd. (A Unit of Tata enterprise)] | *May,2012 – December,2013*
-* **Bachelor of Engineering (B.E.) / Computer Science** (or equivalent B.A./B.Sc.) | [FEAT, Annamalai University]
+* **Bachelor of Engineering (B.E.) / Computer Science** | [FEAT, Annamalai University]
  
 ---
  
