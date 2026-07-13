@@ -70,7 +70,10 @@ The updated error code matrix saved customer engineering teams an estimated **40
 * **Senior Technical Writer** | [HCL Tech./HCL Software] | *February,2024 – Present*
 * **Technical Writer** | [Mindivik Softwaare Solutions] | *April,2023 – January,2024*
 * **Content Writer** | [Metis Eduventures Pvt. Ltd./ADDA 247] | *May,2022 – February,2023*
-* **Bachelor of Engineering (B.E.) / Computer Science** (or equivalent B.A./B.Sc.) | [University Name]
+* **Freelancer** | [Self-Emplyoyed] | *December,2015 – April,2022*
+* **Assistant Manager** | [DPSC Pvt. Ltd.] | *December,2013 – February,2015*
+* **Software Engineer/Contract Assignee** | [CMC Ltd. (A Unit of Tata enterprise)] | *May,2012 – December,2013*
+* **Bachelor of Engineering (B.E.) / Computer Science** (or equivalent B.A./B.Sc.) | [FEAT, Annamalai University]
  
 ---
  
