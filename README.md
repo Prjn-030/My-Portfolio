@@ -12,15 +12,15 @@
 ---
  
 ## 🎯 Profile Overview
-Accomplished Senior Technical Writer with over 7 years of experience transforming complex engineering architectures into seamless, high-adoption developer documentation. Expert in the **Docs-as-Code** philosophy, Git workflows, and API documentation (REST/OpenAPI). Proven track record of collaborating with Product Managers, Security Engineers, and Developers to reduce customer support tickets and accelerate developer onboarding times.
+Accomplished Senior Technical Writer with over 7+ years of experience transforming complex engineering architectures into seamless, high-adoption developer and user-centric documentation. Expert in the **Docs-as-Code** philosophy, Git workflows, and API documentation (REST/OpenAPI). Proven track record of collaborating with Directors, Product Managers, Security Engineers, and Developers to reduce customer support tickets and accelerate developer onboarding times.
  
 ---
  
 ## 🛠️ Core Competencies & Tech Stack
 * **Methodologies:** Docs-as-Code, Information Mapping, Agile/Scrum, Content Strategy.
-* **Tools & Frameworks:** Git/GitHub, VS Code, Docusaurus, Hugo, Markdown, MadCap Flare.
-* **Technologies:** REST APIs, JSON, YAML, OAuth 2.0, SAML, Postman, basic JavaScript/Python.
-* **Domain Expertise:** Identity & Access Management (IAM), Cloud Security, Enterprise SaaS.
+* **Tools & Frameworks:** Git/GitHub, VS Code, DITA Architecure, Oxygen Xml, Markdown, FrameMaker, RoboHelp, AWS Cloud.
+* **Technologies:** REST APIs, JSON, YAML, HTML, XML, Postman, basic JavaScript/Python.
+* **Domain Expertise:** Intelligent Operations (AI Documentation), Cloud Security, Enterprise SaaS.
  
 ---
  
