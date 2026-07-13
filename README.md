@@ -67,9 +67,9 @@ The updated error code matrix saved customer engineering teams an estimated **40
  
 ## 💼 Career History & Education
  
-* **Senior Technical Writer** | [Current/Most Recent Product Company] | *2022 – Present*
-* **Technical Writer II** | [Previous Tech Company] | *2019 – 2022*
-* **Technical Writer** | [Early Service or Product Company] | *2017 – 2019*
+* **Senior Technical Writer** | [HCL Tech./HCL Software] | *February,2024 – Present*
+* **Technical Writer** | [Mindivik Softwaare Solutions] | *April,2023 – January,2024*
+* **Content Writer** | [Metis Eduventures Pvt. Ltd./ADDA 247] | *May,2022 – February,2023*
 * **Bachelor of Engineering (B.E.) / Computer Science** (or equivalent B.A./B.Sc.) | [University Name]
  
 ---
