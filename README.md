@@ -6,7 +6,7 @@
 * **Experience:** 7+ Years (Specializing in Product Documentation, Developer Platforms, Admin Guides, and API Documentation)
 * **Contact"** [+91- 8088038884]
 * **LinkedIn:** [Insert Link] |
-* **GitHub:** [Insert Link] |
+* **GitHub:** [https://github.com/Prjn-030/My-Portfolio] |
 * **Email:** [prashantrjn272@gmail.com]
  
 ---
@@ -18,7 +18,7 @@ Accomplished Senior Technical Writer with over 7+ years of experience transformi
  
 ## 🛠️ Core Competencies & Tech Stack
 * **Methodologies:** Docs-as-Code, Information Mapping, Agile/Scrum, Content Strategy.
-* **Tools & Frameworks:** Git/GitHub, VS Code, DITA Architecure, Oxygen Xml, Markdown, FrameMaker, RoboHelp, AWS Cloud.
+* **Tools & Frameworks:** Git/GitHub, VS Code, DITA Architecture, Oxygen XML, Markdown, FrameMaker, RoboHelp, AWS Cloud.
 * **Technologies:** REST APIs, JSON, YAML, HTML, XML, Postman, basic JavaScript/Python.
 * **Domain Expertise:** Intelligent Operations (AI Documentation), Cloud Security, Enterprise SaaS.
  
@@ -28,7 +28,7 @@ Accomplished Senior Technical Writer with over 7+ years of experience transformi
  
 ### 1. Developer Guide: Authenticating REST API Endpoints (IAM Focus)
 * **Objective:** Simplify the onboarding journey for third-party developers integrating with a proprietary identity platform.
-* **My Role:** Researched, drafted, tested, and published the complete endpoint guide. Interacted heavily with backend security engineers to verify token validation parameters.
+* **My Role:** Researched, drafted, tested, and published the complete endpoint guide. Interacted heavily with backend engineers to verify token validation parameters.
 * **Impact:** Reduced initial integration developer support tickets by **22%** within the first quarter of deployment.
 * **Tech Stack Used:** Markdown, Postman, JSON, Git.
 * **Links:** `[View Conceptual Overview](./samples/developer-guides/api-auth-concepts.md)` | `[View API Reference Sample](./samples/developer-guides/api-reference.md)`
