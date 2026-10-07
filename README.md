@@ -71,7 +71,7 @@ The updated error code matrix saved customer engineering teams an estimated **40
 * **Technical Content Writer** | [Mindivik software Solutions, Noida] | *APR, 2023 – JAN, 2024*
 * **Technical Writer** | [Adda247 (An Ed-Tech Company, Gurgaon)] | *MAY, 2022 – FEB, 2023*
 * **Technical Writer** | [DPSC Private limited, Patna] | *DEC, 2013 – DEC, 2015*
-* * **Technical Writer** | [CMC Limited (A unit of Tata Enterprise), Bangalore] | *2017 – 2019*
+* **Technical Writer** | [CMC Limited (A unit of Tata Enterprise), Bangalore] | *2017 – 2019*
 * **Bachelor of Engineering (B.E.) / Computer Science** | [Annamalai University, (T.N)]
  
 ---
