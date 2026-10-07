@@ -5,7 +5,7 @@
 * **Location:** Noida, India (Open to Hybrid/Remote)
 * **Experience:** 7.5+ Years (Specializing in Product Documentation, Developer Platforms, Admin Guides, and API Documentation)
 * **Contact"** [+91- 8088038884]
-* **LinkedIn:** [Insert Link] |
+* **LinkedIn:** [www.linkedin.com/in/prashant-ranjan-a8320941] |
 * **GitHub:** [Insert Link] |
 * **Email:** [prashantrjn272@gmail.com]
  
