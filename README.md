@@ -76,7 +76,7 @@ The updated error code matrix saved customer engineering teams an estimated **40
  
 ---
 
-## Licence and Certifications
+## 🎯 Licence and Certifications
 
 * **AI Software Engineer** |[Offered By: AI & GenAI Central Academy]| | [HCL Tech, Noida] | *NOV, 2025*
 * **AI and ML Certification** |[Offered By: ICTRD (Govt. of India)]| | [ICTRD Kaushalpith] | *JAN, 2025*
