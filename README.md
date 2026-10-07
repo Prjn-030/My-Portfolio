@@ -3,7 +3,7 @@
  
 * **Name:** [Prashant Ranjan]
 * **Location:** Noida, India (Open to Hybrid/Remote)
-* **Experience:** 7+ Years (Specializing in Product Documentation, Developer Platforms, Admin Guides, and API Documentation)
+* **Experience:** 7.5+ Years (Specializing in Product Documentation, Developer Platforms, Admin Guides, and API Documentation)
 * **Contact"** [+91- 8088038884]
 * **LinkedIn:** [Insert Link] |
 * **GitHub:** [Insert Link] |
@@ -12,14 +12,14 @@
 ---
  
 ## 🎯 Profile Overview
-Accomplished Senior Technical Writer with over 7+ years of experience transforming complex engineering architectures into seamless, high-adoption developer and user-centric documentation. Expert in the **Docs-as-Code** philosophy, Git workflows, and API documentation (REST/OpenAPI). Proven track record of collaborating with Directors, Product Managers, Security Engineers, and Developers to reduce customer support tickets and accelerate developer onboarding times.
+Accomplished Senior Technical Writer with 7.5+ years of experience transforming complex engineering architectures into seamless, high-adoption developer and user-centric documentation. Expert in the **Docs-as-Code** philosophy, Git workflows, and API documentation (REST/OpenAPI). Proven track record of collaborating with Directors, Product Managers, Security Engineers, and Developers to reduce customer support tickets and accelerate developer onboarding times.
  
 ---
  
 ## 🛠️ Core Competencies & Tech Stack
 * **Methodologies:** Docs-as-Code, Information Mapping, Agile/Scrum, Content Strategy.
-* **Tools & Frameworks:** Git/GitHub, VS Code, DITA Architecure, Oxygen Xml, Markdown, FrameMaker, RoboHelp, AWS Cloud.
-* **Technologies:** REST APIs, JSON, YAML, HTML, XML, Postman, basic JavaScript/Python.
+* **Tools & Frameworks:** Git/GitHub, VS Code, DITA Architecture, Oxygen XML, Markdown, FrameMaker, RoboHelp, AWS Cloud.
+* **Technologies:** REST APIs, JSON, YAML, HTML, XML, Markdown, basic JavaScript/Python.
 * **Domain Expertise:** Intelligent Operations (AI Documentation), Cloud Security, Enterprise SaaS.
  
 ---
