@@ -67,13 +67,21 @@ The updated error code matrix saved customer engineering teams an estimated **40
  
 ## 💼 Career History & Education
  
-* **Senior Technical Writer** | [Current/Most Recent Product Company] | *2022 – Present*
-* **Technical Writer II** | [Previous Tech Company] | *2019 – 2022*
-* **Technical Writer** | [Early Service or Product Company] | *2017 – 2019*
-* **Bachelor of Engineering (B.E.) / Computer Science** (or equivalent B.A./B.Sc.) | [University Name]
+* **Senior Technical Writer** | [Hcl Software, Noida] | *FEB, 2024 – Present*
+* **Technical Content Writer** | [Mindivik software Solutions, Noida] | *APR, 2023 – JAN, 2024*
+* **Technical Writer** | [Adda247 (An Ed-Tech Company, Gurgaon)] | *MAY, 2022 – FEB, 2023*
+* **Technical Writer** | [DPSC Private limited, Patna] | *DEC, 2013 – DEC, 2015*
+* * **Technical Writer** | [CMC Limited (A unit of Tata Enterprise), Bangalore] | *2017 – 2019*
+* **Bachelor of Engineering (B.E.) / Computer Science** | [Annamalai University, (T.N)]
  
 ---
- 
+
+## Licence and Certifications
+
+* **AI Software Engineer** |[Offered By: AI & GenAI Central Academy]| | [HCL Tech, Noida] | *NOV, 2025*
+* **AI and ML Certification** |[Offered By: ICTRD (Govt. of India)]| | [ICTRD Kaushalpith] | *JAN, 2025*
+* **Foundations of Prompt Engineering** |[Offered By: AWS]| | [AWS Training and Certification] | *FEB, 2026*
+
 ## 📈 Let's Connect
 I am always excited to discuss content strategy, documentation scaling challenges, or how to bridge the gap between engineering and user adoption.
  
